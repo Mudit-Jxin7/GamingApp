@@ -15,7 +15,7 @@
 
 ### ScreenShots
 
-![Gamics Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Gamics Desktop Demo](./readme-images/Screenshot%202023-03-29%20184405.jpg "Desktop Demo")
 
 ### Prerequisites
 
